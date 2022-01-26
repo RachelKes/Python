@@ -1,0 +1,19 @@
+2011-07-02      Red Sox @  Astros       Win 7-5
+2011-07-03      Red Sox @  Astros       Win 2-1
+2011-07-05      Red Sox vs Blue Jays    Win 3-2
+2011-07-06      Red Sox vs Blue Jays    Win 6-4
+2011-07-07      Red Sox vs Orioles      Win 10-4
+2011-07-08      Red Sox vs Orioles      Win 10-3
+2011-07-09      Red Sox vs Orioles      Win 4-0
+2011-07-10      Red Sox vs Orioles      Win 8-6
+2011-07-16      Red Sox @  Rays         Win 9-5
+2011-07-17      Red Sox @  Rays         Win 1-0
+2011-07-18      Red Sox @  Orioles      Win 15-10
+2011-07-20      Red Sox @  Orioles      Win 4-0
+2011-07-22      Red Sox vs Mariners     Win 7-4
+2011-07-23      Red Sox vs Mariners     Win 3-1
+2011-07-24      Red Sox vs Mariners     Win 12-8
+2011-07-26      Red Sox vs Royals       Win 13-9
+2011-07-27      Red Sox vs Royals       Win 12-5
+2011-07-30      Red Sox @  White Sox    Win 10-2
+2011-07-31      Red Sox @  White Sox    Win 5-3

@@ -1,0 +1,3 @@
+John Smith		100 90  85
+Mary Jones		98  95  93  92
+Tim Tyler 		88  81  79  85

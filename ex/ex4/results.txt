@@ -1,0 +1,30 @@
+value: 6
+TypeError on round(five): type str doesn't define __round__ method
+value: None
+
+value: 0.6
+You cannot divide a number by zero
+value: None
+
+value: 50
+fifty cannot be converted into an integer
+value: None
+
+Could not open xxxx
+
+3
+3
+9
+5
+2
+7
+6
+8
+10
+1
+
+List: [3, 3, 9, 5, 2, 7, 6, 8, 10, 1]
+
+List: [3, 3, 9, 5, 2, 7, 6, 8, 10, 1]
+
+The letter i appears  4 times in Mississippi

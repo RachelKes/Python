@@ -1,0 +1,5 @@
+dir_listing.txt
+hello.sh
+hw6.py
+list.txt
+red_sox_wins.txt

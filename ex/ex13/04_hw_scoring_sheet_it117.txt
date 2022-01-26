@@ -1,0 +1,26 @@
+IT 117: Intermediate Scripting - Scoring Sheet
+Homework 4: hw4.py
+=======================================================
+
+Student name:	John Jones
+
+Has hashbang line                                 10  points
+
+Has correct permissions                           10  points
+
+Has meaningful comment at top of script file      10  points
+
+Function comments meaningful                       0  points
+no function comments
+
+Script runs without syntax errors                 20  points
+
+word_frequencies_create has functioning 
+try/except statement to catch file errors         10  points
+
+word_frequencies_create works properly            20  points
+
+word_frequency_print works properly               10  points
+
+
+Score: 90

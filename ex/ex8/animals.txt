@@ -1,0 +1,7 @@
+aardvark
+bear
+cat
+dog
+emu
+flamingo
+gorilla

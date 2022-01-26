@@ -1,0 +1,4 @@
+Maximum:  89
+Minimum:  66
+Average:  77
+
